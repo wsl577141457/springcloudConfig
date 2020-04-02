@@ -1,0 +1,2 @@
+# springcloudConfig
+学习springcloud时候做集中配置config server用
